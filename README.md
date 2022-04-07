@@ -12,5 +12,7 @@ Real Demo
 
 
 https://freecinema.netlify.app/
+====================================
 email:moazadel@gmail.com
+
 password:Hema
